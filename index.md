@@ -2,122 +2,44 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Published Work
 
-[Link to another page](./another-page.html).
+## Metabase
+- [Startup guide to financial modeling](https://www.metabase.com/startup-guide/introduction)
+- [Embed a Metabase dashboard in Zendesk](https://www.metabase.com/blog/embed-metabase-in-zendesk)
+- [Set up a basic pipeline for log analysis](https://www.metabase.com/blog/set-up-a-logging-pipeline-for-analysis)
+- [Keeping tabs on embedded analytics](https://www.metabase.com/blog/embedding-usage-analytics)
+- [Understand how your team uses Metabase](https://www.metabase.com/blog/how-to-use-metabase-usage-analytics)
+- [Metabase housekeeping with usage analytics](https://www.metabase.com/blog/metabase-housekeeping-with-usage-analytics)
+- [Comparing the most popular open-source charting libraries](https://www.metabase.com/blog/most-popular-data-visualization-libraries-embedding)
+- [7 handy Metabase features you may not know about](https://www.metabase.com/blog/7-handy-features-you-may-not-know-about)
+- [Advice for building and scaling an effective and happy data team](https://www.metabase.com/blog/common-mistakes-companies-make-when-building-a-data-team)
+- [The 2023 Metabase Community Data Stack Report](https://www.metabase.com/data-stack-report-2023/)
+- [The two most important business metrics to track](https://www.metabase.com/blog/develop-a-metrics-store-now)
+- [How to improve data literacy](https://www.metabase.com/blog/improving-data-literacy)
+- [4 steps to turn your support tickets into a dashboard](https://www.metabase.com/blog/4-steps-to-turn-your-support-tickets-into-an-automated-dashboard)
+- [How to improve data literacy](https://www.metabase.com/blog/improving-data-literacy)
+- [How to create and analyze a NPS survey the right way](https://www.metabase.com/blog/create-and-analyze-a-nps-survey-the-right-way)
 
-There should be whitespace between paragraphs.
+## Relay Hawk
+- [Why would a hacker target my business?](https://www.relayhawk.com/blog/why-would-a-hacker-target-my-business)
+- [Creating and managing passwords](https://www.relayhawk.com/blog/a-guide-to-creating-and-managing-passwords)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Datadog
+- Documentation by Product: [Application Security Management](https://docs.datadoghq.com/security/application_security/), [Cloud Security Management](https://docs.datadoghq.com/security/cloud_security_management/), [Cloud SIEM](https://docs.datadoghq.com/security/cloud_siem/), [Log Management](https://docs.datadoghq.com/logs/), [Account Management](https://docs.datadoghq.com/account_management/), [Sensitive Data Scanner](https://docs.datadoghq.com/sensitive_data_scanner/?tab=addscanningrulefromthelibraryrules), [API](https://docs.datadoghq.com/api/latest/)
+- [API documentation redesign](https://drive.google.com/file/d/1dq54cxUuAH4s2lsMJF_aU3A3VS90wYPd/view)
+- [Datadog Engineering Blog](https://www.datadoghq.com/blog/engineering/)
 
-# Header 1
+## Google
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Book Title: 2017 NEW YORK CITY RESTAURANTS
+Publisher: Zagat
+Publication Year: October 2016
+Role: Author, Editor
 
-## Header 2
+## Vox Media
+- [Vox Media Product Blog](https://product.voxmedia.com/2018/8/2/17644210/annual-vax-event-kicks-off-in-baltimore)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Internships/Freelance
+- [Billboard](https://www.billboard.com/author/sarina-bloodgood/)
+- [VICE](https://www.vice.com/en/contributor/sarina-bloodgood)
