@@ -32,7 +32,7 @@ layout: default
 
 ## Google
 
-Book Title: 2017 NEW YORK CITY RESTAURANTS<br>
+Book Title: [2017 NEW YORK CITY RESTAURANTS](https://www.amazon.com/2017-YORK-RESTAURANTS-Zagat-Restaurants/dp/1604787961)<br>
 Publisher: Zagat<br>
 Publication Year: October 2016<br>
 Role: Author, Editor<br>
