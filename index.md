@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Published Work
+# Examples of Published Work
 
 ## Metabase
 - [Startup guide to financial modeling](https://www.metabase.com/startup-guide/introduction)
