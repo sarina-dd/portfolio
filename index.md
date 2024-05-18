@@ -32,10 +32,10 @@ layout: default
 
 ## Google
 
-Book Title: 2017 NEW YORK CITY RESTAURANTS
-Publisher: Zagat
-Publication Year: October 2016
-Role: Author, Editor
+Book Title: 2017 NEW YORK CITY RESTAURANTS<br>
+Publisher: Zagat<br>
+Publication Year: October 2016<br>
+Role: Author, Editor<br>
 
 ## Vox Media
 - [Vox Media Product Blog](https://product.voxmedia.com/2018/8/2/17644210/annual-vax-event-kicks-off-in-baltimore)
