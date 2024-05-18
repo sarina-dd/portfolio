@@ -6,7 +6,6 @@ layout: default
 
 ## Metabase
 - [Startup guide to financial modeling](https://www.metabase.com/startup-guide/introduction)
-- [The 2023 Metabase Community Data Stack Report](https://www.metabase.com/data-stack-report-2023/)
 - [Embed a Metabase dashboard in Zendesk](https://www.metabase.com/blog/embed-metabase-in-zendesk)
 - [Set up a basic pipeline for log analysis](https://www.metabase.com/blog/set-up-a-logging-pipeline-for-analysis)
 - [Keeping tabs on embedded analytics](https://www.metabase.com/blog/embedding-usage-analytics)
@@ -20,6 +19,7 @@ layout: default
 - [4 steps to turn your support tickets into a dashboard](https://www.metabase.com/blog/4-steps-to-turn-your-support-tickets-into-an-automated-dashboard)
 - [How to improve data literacy](https://www.metabase.com/blog/improving-data-literacy)
 - [How to create and analyze a NPS survey the right way](https://www.metabase.com/blog/create-and-analyze-a-nps-survey-the-right-way)
+- [The 2023 Metabase Community Data Stack Report](https://www.metabase.com/data-stack-report-2023/)
 
 ## Relay Hawk
 - [Why would a hacker target my business?](https://www.relayhawk.com/blog/why-would-a-hacker-target-my-business)
