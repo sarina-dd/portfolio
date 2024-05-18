@@ -6,6 +6,7 @@ layout: default
 
 ## Metabase
 - [Startup guide to financial modeling](https://www.metabase.com/startup-guide/introduction)
+- [The 2023 Metabase Community Data Stack Report](https://www.metabase.com/data-stack-report-2023/)
 - [Embed a Metabase dashboard in Zendesk](https://www.metabase.com/blog/embed-metabase-in-zendesk)
 - [Set up a basic pipeline for log analysis](https://www.metabase.com/blog/set-up-a-logging-pipeline-for-analysis)
 - [Keeping tabs on embedded analytics](https://www.metabase.com/blog/embedding-usage-analytics)
@@ -14,7 +15,6 @@ layout: default
 - [Comparing the most popular open-source charting libraries](https://www.metabase.com/blog/most-popular-data-visualization-libraries-embedding)
 - [7 handy Metabase features you may not know about](https://www.metabase.com/blog/7-handy-features-you-may-not-know-about)
 - [Advice for building and scaling an effective and happy data team](https://www.metabase.com/blog/common-mistakes-companies-make-when-building-a-data-team)
-- [The 2023 Metabase Community Data Stack Report](https://www.metabase.com/data-stack-report-2023/)
 - [The two most important business metrics to track](https://www.metabase.com/blog/develop-a-metrics-store-now)
 - [How to improve data literacy](https://www.metabase.com/blog/improving-data-literacy)
 - [4 steps to turn your support tickets into a dashboard](https://www.metabase.com/blog/4-steps-to-turn-your-support-tickets-into-an-automated-dashboard)
